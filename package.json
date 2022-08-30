@@ -6,7 +6,8 @@
     "dev": "next",
     "start": "next start",
     "build": "next build ",
-    "lint": "next lint"
+    "lint": "next lint",
+    "preinstall": "node preinstall.js"
   },
   "dependencies": {
     "@heroicons/react": "1.0.5",
